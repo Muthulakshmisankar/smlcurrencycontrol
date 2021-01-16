@@ -40,7 +40,7 @@ import { SmlNgCurrencyControlModule } from 'currency-control';
 export class AppModule { }
 
 _____________________________________________________
-step3: Import password meter component into your form
+step3: Import currency control component into your form
 
 <sml-ng-currency-control></sml-ng-currency-control>
 ______________________________________________________
